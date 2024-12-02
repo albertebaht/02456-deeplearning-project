@@ -1,6 +1,3 @@
 # Secrets
 .env
 /data
-#/models
-#.vscode/launch.json
-#gcp_keys.json
